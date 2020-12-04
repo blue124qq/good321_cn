@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 285.5555 229.51119">
+    <defs>
+        <clipPath id="signup-clippath">
+            <path id="f9a1ae11-5ac1-493a-a18a-2b71cd394a40" data-name="signup-clip" d="M146.34458,229.39674S10.27654,235.06624.682,166.59612C-10.73007,85.1554,124.10268,0,178.61713,0s94.5918,82.33466,106.41217,163.10719C295.49607,234.63013,146.34458,229.39674,146.34458,229.39674Z" fill="none"/>
+        </clipPath>
+        <linearGradient id="ad2d8b46-63c4-4855-b308-f0f4db45c724" y1="117.24441" x2="285.5555" y2="117.24441" gradientTransform="matrix(1, 0, 0, -1, 0, 232)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#3aacb0"/>
+            <stop offset="1" stop-color="#68bb89"/>
+        </linearGradient>
+    </defs>
+    <title>Asset 1</title>
+    <g id="a5058b5e-fd0f-4da7-8962-85bc38791a88" data-name="Layer 2">
+        <g id="bff4c21d-7616-4959-bfcd-24e84d4b8438" data-name="Layer 1">
+            <g clip-path="url(#signup-clippath)">
+                <path d="M146.34458,229.39674S10.27654,235.06624.682,166.59612C-10.73007,85.1554,124.10268,0,178.61713,0s94.5918,82.33466,106.41217,163.10719C295.49607,234.63013,146.34458,229.39674,146.34458,229.39674Z" fill="url(#ad2d8b46-63c4-4855-b308-f0f4db45c724)"/>
+            </g>
+        </g>
+    </g>
+</svg>

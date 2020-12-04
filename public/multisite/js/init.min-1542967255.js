@@ -1,0 +1,1 @@
+var $modulus=new ModulusFuncs();$(document).ready(function(){init_websocket();init_dynamic_height();$modulus.initImageHolders();$modulus.initSocialShare();$modulus.initPostSignUpAgreements();$modulus.displayFlashMessages()});
